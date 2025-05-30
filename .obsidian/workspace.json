@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-Foundations/Let's start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Let's start"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01-Foundations/Let's start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Let's start"
             }
           }
         ],
@@ -172,8 +172,9 @@
   },
   "active": "be00f2d089e94a8e",
   "lastOpenFiles": [
-    "Welcome.md",
     "README.md",
+    "01-Foundations/Let's start.md",
+    "Welcome.md",
     "06-Configs",
     "05-Scripts",
     "04-Testing-Evaluation",
