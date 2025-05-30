@@ -4,10 +4,6 @@ kanban-plugin: board
 
 ---
 
-## To do
-
-
-
 ## 🗓️ Week 3 — Entering Chroot & Building the Final System
 
 - [ ] Enter chroot environment
@@ -128,6 +124,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false]}
 ```
 %%
