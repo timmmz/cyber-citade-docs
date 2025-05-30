@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Foundations/Let's start.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Let's start"
+              "title": "README"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Foundations/Let's start.md",
+                "file": "Project plan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Let's start"
+              "title": "Outline of Project plan"
             }
           }
         ],
@@ -170,16 +170,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be00f2d089e94a8e",
+  "active": "89ed247cb970915d",
   "lastOpenFiles": [
+    "06_Journal",
     "README.md",
+    "Project plan.md",
+    "gitignore.git",
+    "Nouveau Document texte.txt",
     "01-Foundations/Let's start.md",
     "Welcome.md",
-    "06-Configs",
-    "05-Scripts",
-    "04-Testing-Evaluation",
-    "03-Cybersecurity-Tools",
-    "02-Hardening-Security",
-    "01-Foundations"
+    "05_Technical-notes",
+    "04_ISO-Build",
+    "03_Cybersec-Stack",
+    "02_Hardening",
+    "01_LFS-Base",
+    "00_Project-Overview"
   ]
 }
